@@ -1,8 +1,15 @@
 #logo{
     width: 200px;
     height: 70px;
-    background-image: ;
+}
+#Autore{
+    color: aqua;
 }
 
+thead{
+    background-color: aquamarine;
+}
 
-
+#blu-row{
+    background-color: rgb(61, 194, 246);
+}
