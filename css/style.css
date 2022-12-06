@@ -12,3 +12,22 @@
 .logo {
     width: 180px;
 }
+
+.info {
+    color: rgb(150, 150, 150);
+	font-size: 20px;
+}
+
+.info time {
+    font-size: 15px;
+}
+
+.TB {
+    color: dodgerblue;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+
