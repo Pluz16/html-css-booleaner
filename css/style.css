@@ -1,22 +1,14 @@
-#logo{
-    width: 200px;
-    height: 70px;
-}
-#Autore{
-    color: aqua;
-}
+*{box-sizing: border-box;
+    padding: 0;
+    margin: 0;}
 
-thead{
-    background-color: aquamarine;
-}
+.header-principale {
+    background-image: url('../img/pattern.png');
+    padding-top: 100px;
+    background-size: 260px;
+    background-color: rgb(51, 151, 250);
+    }
 
-.row{
-    background-color: rgb(61, 194, 246);
-}
-
-#graf{
-    background-image: ;
-}
-#desk{
-
+.logo {
+    width: 180px;
 }
