@@ -1,5 +1,5 @@
 *{box-sizing: border-box;
-    padding: 0;
+    padding: 5px;
     margin: 0;}
 
 .header-principale {
@@ -37,7 +37,6 @@ p strong {
 .table {
 	width: 100%;
 	border-collapse: collapse;
-    padding-bottom: 10px;
 }
 
 .table-heading {
